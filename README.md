@@ -12,7 +12,7 @@
 - **Frameworks**: TensorFlow, Scikit-Learn, OpenCV
 - **DataBase Management**: MySQL
 - **Hardware Programming**: Arduino , Raspberry Pi,ESP32,  VHDL , PCB Design
--**Cloud**: AWS, Arduino Cloud, IoT
+- **Cloud**: AWS, Arduino Cloud, IoT
 - **Tools**: Git, Jupyter, Figma 
 
 ## Projects
