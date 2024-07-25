@@ -26,4 +26,4 @@ Implemented face detection using Support Vector Machines and Histogram of Orient
 - [Twitter](https://x.com/Prakkks_)
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prakkks&show_icons=true)
