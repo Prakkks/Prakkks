@@ -16,7 +16,7 @@
 - **Tools**: Git, Jupyter, Figma 
 
 ## Projects
-### [Face Detection using SVM and HOG](https://github.com/yourusername/face-detection-svm-hog)
+### [Face Detection using SVM and HOG](https://github.com/prakkks/face-detection-svm-hog)
 Implemented face detection using Support Vector Machines and Histogram of Oriented Gradients.
 
 
