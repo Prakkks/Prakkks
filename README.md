@@ -15,10 +15,6 @@
 - **Cloud**: AWS, Arduino Cloud, IoT
 - **Tools**: Git, Jupyter, Figma 
 
-## Projects
-### [https://github.com/Prakkks/SVM-and-HOG-for-face-detection]
-Implemented face detection using Support Vector Machines and Histogram of Oriented Gradients.
-
 
 
 ## Connect with Me
