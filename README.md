@@ -11,7 +11,7 @@
 - **Web Development** : HTML, CSS, REACT, THREE.JS 
 - **Frameworks**: TensorFlow, Scikit-Learn, OpenCV
 - **DataBase Management**: MySQL
--**Hardware Programming**: Arduino , Raspberry Pi,ESP32,  VHDL , PCB Design
+- **Hardware Programming**: Arduino , Raspberry Pi,ESP32,  VHDL , PCB Design
 -**Cloud**: AWS, Arduino Cloud, IoT
 - **Tools**: Git, Jupyter, Figma 
 
