@@ -1,9 +1,8 @@
 # Hello, I'm Prakriti Thapa 👋
 
 ## About Me
-- 🌱 I’m currently learning advanced machine learning techniques.
-- 👯 I’m looking to collaborate on AI and data science projects.
-- 💬 Ask me about data analysis, Python, and machine learning, web development ,UI/UX.
+
+- 💬 Ask me about data analysis, Python, and machine learning, web development 
 - 📫 How to reach me: tprakrity@gmail.com
 
 ## My Skills
