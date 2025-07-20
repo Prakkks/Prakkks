@@ -19,7 +19,7 @@
 ## Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/prakriti-thapa-497a742b9/)
 - [Twitter](https://x.com/Prakkks_)
-- [Personal Websitw](https://personal-website-tan-five-61.vercel.app/)
+- [Personal Website](https://personal-website-tan-five-61.vercel.app/)
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prakkks&show_icons=true)
